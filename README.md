@@ -1,6 +1,5 @@
 
 
-```markdown
 # Random Quote Generator
 
 A simple React app that generates random quotes using the [quotable.io](https://quotable.io/) API. Users can click a button to retrieve a new quote along with the author's name.
@@ -67,11 +66,4 @@ View the live demo [here](https://arulmozhikumar7.github.io/React-Quote-Generato
 
 ## Contributing
 
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Replace placeholders like `your-github-username` and `your-repo-name` with your actual GitHub username and repository name. You may also consider adding more sections, such as "Acknowledgments," "Known Issues," or "Future Improvements," based on the specific details of your project.
+Contributions are welcome! 
